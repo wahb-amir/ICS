@@ -36,7 +36,7 @@
 | # | Folder | Problem Description |
 |---|--------|----------------------|
 | 1 | `activity-01-bmi-calculator` | Write a program to calculate Body Mass Index (BMI). Ask the user for their weight (kg) and height (m), then compute and display their BMI and classification. Formula: `BMI = weight / height²`. |
-| 2 | `activity-02-expression-evaluation` | Compute the following expressions and compare results with your classmates: `10 + 3*2**2 - 5/5` and `(10 + 3) * (2 ** (2 - 1)) / 5`. |
+| 2 | `activity-02-expression-evaluation` | Compute the following expressions `10 + 3*2**2 - 5/5` and `(10 + 3) * (2 ** (2 - 1)) / 5`. |
 | 3 | `activity-03-even-odd-checker` | Write an if-else statement **and** a short-hand if-else statement to check if a number is even or odd, and print the appropriate message. |
 | 4 | `activity-04-sign-checker` | Write an if-elif-else statement to check if a number is positive, negative, or zero. |
 | 5 | `activity-05-while-loop-even-odd` | Write a Python program using a `while` loop that prints even numbers and counts the odd numbers from 1 to 20. |
