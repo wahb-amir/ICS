@@ -9,7 +9,7 @@ You are maintaining a list of favorite books: ["To Kill a Mockingbird", "1984", 
 
 books = ["To Kill a Mockingbird", "1984", "The Great Gatsby", "Pride and Prejudice"]
 
-# 1) Adding another book by using the append method 
+# 1) Adding another book by using the  append method 
 
 books.append("Moby Dick")
 
