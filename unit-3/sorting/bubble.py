@@ -23,9 +23,9 @@ def bubble_sort(arr: list, mode: str = "ascending") -> list:
         
 
 li = [9,12,3,1,8]
-s = [1, 3, 8, 9, 12]
+s = [1]
 
 sorted = bubble_sort(s, "ascending")
 print(sorted)
-sorted = bubble_sort(li, "ascending")
+sorted = bubble_sort(li, "descending")
 print(sorted)
