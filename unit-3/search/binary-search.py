@@ -17,6 +17,6 @@ def search(arr,target):
 li = [12, 9, 8, 3, 1]
 
 
-result = search(li,8)
+result = search(li,3)
 
 print(result)
